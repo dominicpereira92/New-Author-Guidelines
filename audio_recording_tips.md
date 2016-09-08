@@ -6,7 +6,7 @@
 
 <h5 style="color:black;"> _The quality of your narration helps onscreen learning. Practice your narration before you record your screencast._
 
-<h2 style="color:black;">  Find a Quite Spot in your House
+<h2 style="color:black;">  Find a Quiet Spot in your House
 
 ![](pic2.PNG)
 

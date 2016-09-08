@@ -1,7 +1,7 @@
 
 <h1 style="color:red;"> Creating Great Technical Courses
 
-<h4 style="color:black;"> _This video will explain in detail on how we can go about creating some great technical courses._
+<h5 style="color:black;"> This video will explain in detail on how we can go about creating some great technical courses.
 
 {% raw %}
 

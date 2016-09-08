@@ -1,6 +1,6 @@
 <h1 style="color:red;"> How to Plan a Video
 
-<h4 style="color:black;"> _In this video, we'll take a look at the detailed plan about creating a video with an example scenario._
+<h5 style="color:black;"> In this video, we'll take a look at the detailed plan about creating a video with an example scenario.
 
 {% raw %}
 

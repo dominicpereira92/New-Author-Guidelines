@@ -6,7 +6,7 @@
 <h2 style="color:black;">Record the Videos
 
 ![](img2.PNG)
-<h4 style="color:blue;"> _Each video will be upto 5 minutes long and will cover 1 topic within the section._
+<h5 style="color:blue;"> _Each video will be upto 5 minutes long and will cover 1 topic within the section._
 
 <h2 style="color:red;"> Get the videos reviewed
 

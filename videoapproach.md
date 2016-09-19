@@ -1,25 +1,25 @@
 ![](img1.PNG)
 
                         
-<h1 style="color:red;">Video First Approach             
+<h1 style="text-decoration: underline; color:black">Video First Approach             
 
-<h2 style="color:black;">Record the Videos
+<h2 style="text-decoration: underline; color:brown">Record the Videos
 
 ![](img2.PNG)
-<h5 style="color:blue;"> _Each video will be upto 5 minutes long and will cover 1 topic within the section._
+<h4 style="color:black; font-family:Times New Roman"> Each video will be within 5 to 8 minutes and will cover 1 topic within the section.
 
-<h2 style="color:red;"> Get the videos reviewed
+<h2 style="text-decoration: underline; color:brown"> Get the videos reviewed
 
 ![](img3.PNG)
-<h4 style="color:blue;"> _Our technical reviewers will review the screencasts and provide feedback._ 
+<h4 style="color:black; font-family:Times New Roman"> Our technical reviewers will review the screencasts and provide feedback. 
 
-<h2 style="color:red;"> Polish the Videos
+<h2 style="text-decoration: underline; color:brown"> Polish the Videos
 
 ![](img4.PNG)
-<h4 style="color:blue;"> _Address the reviwer comments and polish the content in your videos._
+<h4 style="color:black; font-family:Times New Roman"> Address the reviwer comments and polish the content in your videos.
 
-* <p style="color:black;">Involves video recording at the initial stage.</p> 
-* <p style="color:black;">Single stage finalization.</p> 
-* <p style="color:black;">Pre-planned content. </p>
-* <p style="color:black;">Recommended if you are an expert at recording video or screencasts. </p>
-* <p style="color:black;">Does not facilitate easy revisions.</p>
+* <p style="color:black; font-family:Times New Roman">Involves video recording at the initial stage.</p> 
+* <p style="color:black; font-family:Times New Roman">Single stage finalization.</p> 
+* <p style="color:black; font-family:Times New Roman">Pre-planned content. </p>
+* <p style="color:black; font-family:Times New Roman">Recommended if you are an expert at recording video or screencasts. </p>
+* <p style="color:black; font-family:Times New Roman">Does not facilitate easy revisions.</p>

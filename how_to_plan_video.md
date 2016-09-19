@@ -1,6 +1,6 @@
-<h1 style="color:red;"> How to Plan a Video
+<h1 style="text-decoration: underline; color:brown"> How to Plan a Video
 
-<h5 style="color:black;"> In this video, we'll take a look at the detailed plan about creating a video with an example scenario.
+<h4 style="color:black; font-family:Times New Roman"> In this video, we'll take a look at the detailed plan about creating a video with an example scenario.
 
 {% raw %}
 

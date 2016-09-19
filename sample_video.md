@@ -1,6 +1,6 @@
-<h1 style="color:red;">Example Video</h1>
+<h1 style="text-decoration: underline; color:brown">Example Video</h1>
 
-<h5 style="color:black;"> This video will give you an idea about how a final video should look like
+<h4 style="color:black; font-family:Times New Roman"> This video will give you an idea about how a final video should look like
 {% raw %}
 
 <iframe src="https://drive.google.com/file/d/0B7WrhFqfMcogTGUweFJMOTJkNW8/preview" width="640" height="480"></iframe>

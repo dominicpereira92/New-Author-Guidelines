@@ -6,7 +6,11 @@
 
 <h4 style="color:black; font-family:Times New Roman"> The quality of your narration helps onscreen learning. Practice your narration before you record your screencast.
 
+<<<<<<< HEAD
 <h2 style="text-decoration: underline; color:brown">  Find a Quiet Spot in your House
+=======
+<h2 style="color:black;">  Find a Quiet Spot in your House
+>>>>>>> origin/master
 
 ![](pic2.PNG)
 
